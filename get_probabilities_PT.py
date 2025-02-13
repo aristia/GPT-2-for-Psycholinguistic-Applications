@@ -1,8 +1,6 @@
 """
 Adapted from  GPT-2-for-Psycholinguistic-Applications/get_probabilities_jp.py
-
-
-
+by J.Aristia
 """
 import numpy as np
 import re
